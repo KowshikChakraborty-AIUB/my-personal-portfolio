@@ -17,7 +17,7 @@ const Banner = () => {
                             <img className="h-11 w-11 rounded-full" src="https://i.ibb.co/hf744LG/facebook-circle-pictogram.png" alt="" />
                         </a>
                     </div>
-                    <a href="../../../public/Resume-Will-Be-Coming-Soon.pdf" download={'Resume-of-Kowshik-Chakraborty'} className="btn mt-6 bg-[#5ED3F3] text-black text-base font-bold rounded-lg hover:bg-white">Download Resume</a>
+                    <a href="../../../dist/Resume_Kowshik_Chakraborty.pdf" download={'Resume-of-Kowshik-Chakraborty'} className="btn mt-6 bg-[#5ED3F3] text-black text-base font-bold rounded-lg hover:bg-white">Download Resume</a>
                 </div>
                 <div>
                     <img className="h-72 w-72 rounded-full border-4 border-[#5ED3F3]" src='https://i.ibb.co/KKvPDbt/Kowshik.jpg' alt="" />
